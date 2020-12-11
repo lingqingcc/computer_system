@@ -7,7 +7,7 @@
     <groupId>cn.edu.zut</groupId>
     <artifactId>javacomputer</artifactId>
     <version>1.0-SNAPSHOT</version>
-         <packaging>war</packaging>
+    <packaging></packaging>
     <build>
         <plugins>
             <plugin>
